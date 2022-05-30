@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alahasan009
+- 👋 Hi, I’m @Alahasan
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning PHP & MySQL.
 - 💞️ I’m looking to collaborate on ........
